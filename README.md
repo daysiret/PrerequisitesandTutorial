@@ -161,9 +161,12 @@ This tutorial outlines the prerequisites and step-by-step tutorial on creating a
 </p>
 
 - This will take you straight to your VM
+- Here you will be able to get your private IP address to start your RDP connection
 </p>
 <p><img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/26f8535a-ff97-4a39-9f09-a4d6a1a9a450" />
 </p>
 
-- Here you will be able to get your private IP address to start your RDP connection
-- Stop your VM when not in use to perserve the credits provided to you, that can be done by hitting stop and waiting on confirmation it has stopped
+<h3> Make sure to stop your VM when not in use to perserve the credits provided to you, that can be done by hitting stop and waiting on confirmation it has stopped</h3>
+</p>
+<p><img width="959" height="212" alt="image" src="https://github.com/user-attachments/assets/8eb78c0a-b52f-41eb-b389-193bd104ace1" />
+</p>
