@@ -119,6 +119,51 @@ This tutorial outlines the prerequisites and step-by-step tutorial on creating a
 <p><img width="767" height="356" alt="image" src="https://github.com/user-attachments/assets/d85f3c51-87f4-4e64-b394-4ba9c4f1162b" />
 </p>
 <h3>F.</h3>
--  
 
+- Create Username
+- Create Password
+  <h3>PICK A STRONG USERNAME AND SECURE PASSWORD (KEEP NOTE)</h3>
+  </p>
+  <p><img width="959" height="136" alt="image" src="https://github.com/user-attachments/assets/b6d73166-12bf-44be-977e-f6529ce58055" />
+</p>
 
+<h1>Step 5: Create Virtual Machine</h1>
+
+<h3>A.</h3>
+
+- Keep Public inbound ports and Select inbound ports as default
+- Check Licensing box
+- Click Review + create
+
+</p>
+<p><img width="656" height="374" alt="image" src="https://github.com/user-attachments/assets/e717262b-2b28-4315-94bf-6a5c36d813ca" />
+</p>
+
+<h3>B.</h3>
+
+- After getting confirmation that validation has passed, click Create
+
+   </p>
+  <p><img width="775" height="454" alt="image" src="https://github.com/user-attachments/assets/0d47cc12-c2ba-482e-b86c-d68cadee85d6" />
+</p>
+
+- Please note the "deployment progress" may take anywhere from 2-4 minutes
+</p>
+<p><img width="956" height="324" alt="image" src="https://github.com/user-attachments/assets/be3d8348-a77a-436e-b2ad-b38c029eb94b" />
+</p>
+
+<h3>C.</h3>
+
+- Once deplyment is complete, select Go to resource
+   
+</p>
+<p><img width="959" height="472" alt="image" src="https://github.com/user-attachments/assets/3f3ca672-dfeb-406b-bd16-778489030919"
+</p>
+
+- This will take you straight to your VM
+</p>
+<p><img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/26f8535a-ff97-4a39-9f09-a4d6a1a9a450" />
+</p>
+
+- Here you will be able to get your private IP address to start your RDP connection
+- Stop your VM when not in use to perserve the credits provided to you, that can be done by hitting stop and waiting on confirmation it has stopped
